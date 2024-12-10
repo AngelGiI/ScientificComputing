@@ -1,0 +1,2 @@
+c:\mingw\bin\gfortran examenAngel.f90  c:\mingw\bin\lapack.o c:\mingw\bin\minpack.o
+c:\mingw\bin\gfortran .f90  c:\mingw\bin\lapack.o c:\mingw\bin\minpack.o

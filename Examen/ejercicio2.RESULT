@@ -1,0 +1,14 @@
+   Ejercicio 2: SUBMATRIZ DE MENOR TRAZA OSCILANTE
+                ==================================
+
+   Alumno: GIL ALAMO ANGEL, AMANDO
+
+   i= 15, j= 6; tros(B) = tros(A(i:i+4,j:j+4)) = -21.4414
+
+   Calculamos C = B ** 9 y escribimos los componentes de la diagonal:
+
+   C(1,1) =  357547447.1288
+   C(2,2) =  895790613.6390
+   C(3,3) =  204964556.1835
+   C(4,4) =  327901180.1161
+   C(5,5) = -115461455.0248

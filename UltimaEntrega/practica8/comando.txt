@@ -1,0 +1,1 @@
+c:\mingw\bin\gfortran practica8AngelGil.f90  c:\mingw\bin\lapack.o c:\mingw\bin\minpack.o

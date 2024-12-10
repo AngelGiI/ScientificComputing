@@ -1,0 +1,22 @@
+   Ejercicio 1: VERTICE DE LA PARABOLA DE SEGUNDO GRADO
+                =======================================
+
+   Alumno: GIL ALAMO ANGEL, AMANDO
+
+   Caso 1 (v,w)= (  14.256, -32.492)  Tipo: MIN
+
+   Caso 2 (v,w)= (  14.789, -69.709)  Tipo: MIN
+
+   Caso 3 (v,w)= (  16.850, 133.128)  Tipo: MAX
+
+   Caso 4 (v,w)= (  13.341, -28.207)  Tipo: MIN
+
+   Caso 5 (v,w)= (  13.591,  35.331)  Tipo: MAX
+
+   Caso 6 (v,w)= (  13.076, -30.970)  Tipo: MIN
+
+   Caso 7 (v,w)= (  13.890, 141.320)  Tipo: MAX
+
+   Caso 8 (v,w)= (  13.870,-116.045)  Tipo: MIN
+
+   Caso 9 (v,w)= (  18.308, -64.520)  Tipo: MIN

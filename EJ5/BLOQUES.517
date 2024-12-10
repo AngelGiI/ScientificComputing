@@ -1,0 +1,7 @@
+INTEGER mv, mlcod, mldat, mncd, mnrc
+PARAMETER (mv=500, mlcod=8, mldat=20, mncd=7500, mnrc=50)
+INTEGER nvar, ncasos, lr, nrc, pvr(mnrc), ancvar(mv)
+CHARACTER tipvar(mv)
+CHARACTER(LEN=10) nomvar(mv)
+COMMON /cabec/ nvar, ncasos, lr, nrc, pvr, ancvar
+COMMON /varc/ tipvar, nomvar
